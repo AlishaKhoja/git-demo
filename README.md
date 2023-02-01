@@ -2,7 +2,5 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
-
-nvbxmfgbfbgmfbghjvj hrjgdgfhg
-fjsgfdjzgfhkd
+##Website contents
+1. Index.html
